@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Targo Dove</h1>
-<h3 align="center">Ambitious and creative Electronic Engineering graduate and Computer Science student with a passion for code and embedded design</h3>
+<h3 align="center">Ambitious and creative Electronic Engineer with a passion for code and embedded design</h3>
 
 - 📫 How to reach me **targodove@gmail.com**
 
